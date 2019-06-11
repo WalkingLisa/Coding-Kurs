@@ -1,0 +1,38 @@
+header{
+        background-color: #08298A;
+        padding: 20px;
+}
+
+#profil {
+        background-image: url("koeln.jpg");
+}
+
+footer{
+        background-color: #08298A;
+        margin: none;
+        font-size: 15px;
+        padding: 15px;
+}
+#logo {
+     height: 50px;
+     width: 180px;
+     margin: 20px;
+
+}
+
+.profilbild {
+    margin: 30px;
+    border: solid 5px #08298A;
+}
+
+.setting {
+
+}
+
+body {
+      font-family: helvetica;
+      font-size: 20px;
+      background-color: #E0F2F7;
+
+}
+
